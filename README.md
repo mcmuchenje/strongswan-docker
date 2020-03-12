@@ -33,7 +33,7 @@ If you intend to use `leftfirewall=yes` in your configuration, you should use `l
 
 ##### download
 ```bash
-docker pull deltaprojects/strongswan
+docker pull mcmuchenje/strongswan-docker
 ```
 
 ##### run
